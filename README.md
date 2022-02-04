@@ -1,4 +1,4 @@
-# tarefas-cs-web-template
+# tarefas-cs-web
 Uma aplicação em C# (web) com Minimal APIs, EFCore 6, MySQL e Pomelo
 
 ## OpenAPI (Swagger)
